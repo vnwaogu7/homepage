@@ -77,6 +77,7 @@ h2, h3{
 }
 
 .websites{
+  background:black;
   color:#00c997;
   margin:auto;
   margin-top:60px;
@@ -167,4 +168,11 @@ footer ul{
   color:white;
   display:flex;
 
+}
+
+button{
+  margin-top:10px;
+  background:black;
+  color:#00c997;
+  font-size:18px;
 }
