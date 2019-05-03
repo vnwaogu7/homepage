@@ -29,7 +29,9 @@ header nav{
 }
 
 header ul{
-  font-size:20px;
+  font-family:arial;
+  font-style:italic;
+  font-size:18px;
   color:white;
   display:flex;
   justify-content:space-between;
@@ -73,7 +75,7 @@ h2, h3{
 }
 
 .text p{
-  
+  font-family:times;
   padding:20px;
   font-size:18px;
 }
@@ -162,6 +164,12 @@ h2, h3{
   display:block;
 }
 
+.bottom p{
+  font-family:arial;
+  font-style:italic;
+  font-size:16px;
+}
+
 
 footer nav{
   color:white;
@@ -174,15 +182,20 @@ footer nav{
 }
 
 footer ul{
+  font-family:arial;
+  font-style:italic;  
   font-size:0px;
+  padding-top:10px;
   color:white;
   display:flex;
 
 }
 
 button{
+  font-style:italic;
   margin-top:10px;
   background:black;
   color:#00c997;
   font-size:18px;
 }
+
